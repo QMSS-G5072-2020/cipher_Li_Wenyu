@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "cipher_li_wenyu"
+name = "cipher_wl2788"
 version = "0.1.0"
-description = "HW7"
+description = "hw7"
 authors = ["Wenyu <71299532+Irene-2020@users.noreply.github.com>"]
 license = "MIT"
 
